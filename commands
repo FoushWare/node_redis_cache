@@ -1,0 +1,6 @@
+#Install dependencies 
+
+npm i express node-fetch redis 
+
+# Install Dev dependencies
+npm i -D nodemon
